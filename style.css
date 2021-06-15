@@ -1,0 +1,9 @@
+body{
+ background-image: url("img/wallpaper.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+#canvas {
+    position: absolute;
+    background: linear-gradient(#FF4500, #FFA07A, #FFA500);
+}
